@@ -233,7 +233,6 @@ footer>p {
     background-color: var(--bgColour);
 }
 
-
 /* Overlay Image Styling */
 .overlayImage {
     background-image: url("../images/overlay.jpg");
@@ -287,7 +286,6 @@ footer>p {
 
 
 /* Footer Styling */
-
 .footerContent {
     display: flex;
     justify-content: center;
@@ -359,7 +357,6 @@ footer>p {
     padding: 1em;
     flex-wrap: wrap;
 }
-
 
 /* ====== Browse Page ======*/
 .kidsBackground {
